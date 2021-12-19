@@ -1,16 +1,3 @@
 # expense_planner
 
-Expense planner project MAX udemy course.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/83088291/146670200-be063ddd-291a-4208-b65a-01b004236208.jpeg"  width="250" height="350"><img src="https://user-images.githubusercontent.com/83088291/146670206-e30705fa-80e2-4912-87d5-92e2ebff3a19.jpeg"  width="250" height="350"><img src="https://user-images.githubusercontent.com/83088291/146670207-a51320ec-d71e-4dfd-8a5b-4d32d6e18bbb.jpeg"  width="250" height="350">
